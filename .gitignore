@@ -1,0 +1,10 @@
+*.exe
+*.o
+*.out
+cmake-build-debug/
+cmake-build-release/
+.idea/
+__pycache__/
+*.pyc
+
+ROTEIRO_GRAVACAO.md
